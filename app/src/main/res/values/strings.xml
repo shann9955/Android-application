@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BrightMinds</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string-array name="nav_drawer_items" >
+        <item>Home</item>
+        <item>Quiz</item>
+        <item>Game</item>
+        <item>Progress</item>
+    </string-array>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="home_header">Welcome to Bright Minds.</string>
+    <string name="home_body">Bright Minds is an app aimed for patients with Alzheimers.</string>
+
+    <string name="quiz_header">Ready for the Quiz?</string>
+    <string name="quiz_instructions">Quiz Instructions</string>
+
+    <string name="game_header">Fun sequence game!</string>
+    <string name="game_instructions">Game Instructions</string>
+</resources>
